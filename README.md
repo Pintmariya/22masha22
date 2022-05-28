@@ -1,2 +1,2 @@
-My name is Maria, I am 12 years old. 
+My name is Mariya, I am 12 years old. 
 I want to learn something new.
