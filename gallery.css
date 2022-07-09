@@ -1,0 +1,25 @@
+.gallery {
+    display: flex;
+    overflow: hidden;
+    width: 80%;
+    margin: 0 auto;
+}
+.controls {
+ width: fit-content;
+ margin: 0 auto;
+ padding-right: 20px;
+}
+.controls button {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.first_image {
+    margin-left: 0;
+}
+#left_button, #right_button {
+    background-color: rgb(247, 129, 164);
+}
+
+   
